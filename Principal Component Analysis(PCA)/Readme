@@ -1,1 +1,3 @@
-
+This code is used to perform the PCA algorithm to create new data out of the principal components.
+The output is displayed as image files. 
+You can implement this with your own input and modifications to the code
