@@ -1,1 +1,4 @@
+This code is used to perform the K-means algorithm to create a plot of the clustering obtained for k = 3.
+The output is displayed as image files. 
+You can implement this with your own input and modifications to the code
 
