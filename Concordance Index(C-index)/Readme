@@ -1,1 +1,4 @@
-
+This code is used to perform the c-index clustering.
+Run k-Means implementation 50 times with random initialization on the data set in the cluster. The C-Index is computed for all runs for the minimal and average c for each k.
+The output is displayed as image files. 
+You can implement this with your own input and modifications to the code
