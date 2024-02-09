@@ -1,1 +1,3 @@
-
+This code is used to perform the regression using the gradient descent algorithm to find values that minimize SSE(w) on the dataset. And the calculating standard deviation. 
+The output is displayed as image files. 
+You can implement this with your own input and modifications to the code
